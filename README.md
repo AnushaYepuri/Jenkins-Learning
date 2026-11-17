@@ -434,14 +434,33 @@ http://localhost:8080
 
 Add your actual screenshots to the `assets/images` directory.
 
-| Screenshot | File name |
-|---|---|
-| Jenkins download page | `jenkins-download.png` |
-| Windows installation wizard | `jenkins-installer.png` |
-| Jenkins service configuration | `jenkins-service.png` |
-| Unlock Jenkins page | `jenkins-unlock.png` |
-| Plugin installation | `jenkins-plugins.png` |
-| Jenkins dashboard | `jenkins-dashboard.png` |
+### 📸 Jenkins Installation Screenshots
+
+The following screenshots document my Jenkins installation and configuration process on Windows.
+
+#### 1. Jenkins Download Page
+
+![Jenkins Download](assets/images/jenkins-download.png)
+
+#### 2. Windows Installation Wizard
+
+![Jenkins Installer](assets/images/jenkins-installer.png)
+
+#### 3. Unlock Jenkins
+
+![Jenkins Unlock](assets/images/jenkins-unlock.png)
+
+#### 4. Install Suggested Plugins
+
+![Jenkins Plugins](assets/images/jenkins-plugins.png)
+
+#### 5. Jenkins Dashboard
+
+![Jenkins Dashboard](assets/images/jenkins-dashboard.png)
+
+#### 6. Jenkins Pipeline Execution
+
+![Pipeline Execution](assets/images/pipeline-execution.png)
 
 Example Markdown image:
 
